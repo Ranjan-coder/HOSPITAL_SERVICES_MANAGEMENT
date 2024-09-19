@@ -1,0 +1,40 @@
+.serviceListContainer {
+    margin-top: 20px;
+  }
+  
+  .serviceItem {
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .serviceDetails {
+    flex: 1;
+  }
+  
+  .buttonGroup {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .editableInput {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
