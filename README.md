@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started < CLONE THE APP > by following command
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+git clone https://github.com/Ranjan-coder/HOSPITAL_SERVICES_MANAGEMENT.git
+
+## After sucessfully clone run only npm start command to start the application
+
+in the 
 
 ## Available Scripts
 
@@ -13,6 +17,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## DETAILS
+
+in this application you can add the services, edit and delete operation you can perform
 
 ### `npm test`
 
